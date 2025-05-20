@@ -14,9 +14,14 @@ A lightweight implementation of Conway's Game of Life written in C++. Simulates 
 ```bash
 git clone https://github.com/YOUR_USERNAME/conway-game-of-life-cpp.git
 cd conway-game-of-life-cpp
+```
 
 #### 2. Compile the program
+```bash
 g++ -std=c++17 -o game_of_life main.cpp
+```
 
 #### 3. Run the simulation
+```bash
 ./game_of_life
+```
