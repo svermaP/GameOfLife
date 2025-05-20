@@ -1,6 +1,6 @@
 # Conway's Game of Life (C++)
 
-A lightweight implementation of Conway's Game of Life written in C++. Simulates a 2D cellular automaton evolving over time, following the original rules devised by mathematician John Conway.
+A simple C++ implementation of Conway’s Game of Life. Uses a 2D grid to simulate how cells live, die, or reproduce across generations based on the original rules. Built to practice working with arrays, neighbor-checking logic, and simulation loops. Prints each generation to the terminal.
 
 ### Features
 - Cell evolution within terminal
