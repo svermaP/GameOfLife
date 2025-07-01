@@ -29,9 +29,9 @@ g++ -std=c++17 -o game_of_life gameoflife.cpp
 
 
 ### Why?
-- I'm currently learning C++, and I thought this would be a cool way to practice it. I came across Conway’s Game of Life, thought the idea was fun, and wanted to build it myself from scratch just to see if I could get it working. Definitely want to continue adding some more features and see how much I can build, bend, or break it.
+I'm currently learning C++, and I thought this would be a cool way to practice it. I came across Conway’s Game of Life, thought the idea was fun, and wanted to build it myself from scratch just to see if I could get it working. Definitely want to continue adding some more features and see how much I can build, bend, or break it.
 
 ### What's next?
-- This is just a simple CLI interface so in the future will add an interactive GUI to design patterns and control the simulation more easily.
-- Game of Life within Game of Life?
+This is just a simple CLI interface so in the future will add an interactive GUI to design patterns and control the simulation more easily.
+* Game of Life within Game of Life?
 
